@@ -1,5 +1,10 @@
 # PowerPoint
 *.pptx
 *.ppt
+
+#Word
 *.docx
 *.doc
+
+#iPython ckeckpoints
+.ipynb_checkpoints
